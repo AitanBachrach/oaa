@@ -68,6 +68,7 @@
       "slow"                                              "30 35 40 45 50"
       "slow_duration"                                     "4 4.25 4.5 4.75 5"
       "bonus_spell_damage"                                "250 375 550 775 1050"
+      "cooldown_tooltip"                                  "10 9.5 9 8.5 8"
     }
   }
 }
